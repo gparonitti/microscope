@@ -1,4 +1,4 @@
-Meteor.Spinner.options = {
+/*Meteor.Spinner.options = {
     lines: 8, // The number of lines to draw
     length: 7, // The length of each line
     width: 2, // The line thickness
@@ -15,7 +15,7 @@ Meteor.Spinner.options = {
     zIndex: 2e9, // The z-index (defaults to 2000000000)
     top: 'auto', // Top position relative to parent in px
     left: 'auto' // Left position relative to parent in px
-};
+};*/
 
 Accounts.ui.config({
     passwordSignupFields : 'USERNAME_ONLY'
